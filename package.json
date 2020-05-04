@@ -1,0 +1,11 @@
+{
+  "name": "tripplanner-modular-front-end",
+  "version": "1.0.0",
+  "description": "TripPlanerPair with Luis Carbajal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Carbajal and Hector Santana-Quintana",
+  "license": "ISC"
+}
